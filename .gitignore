@@ -1,8 +1,5 @@
 __pycache__/
-*.pyc
-*.DS_Store
 .venv/
 outputs/
 Capstone Folder/
-data/
-model_weights/
+*.DS_Store
