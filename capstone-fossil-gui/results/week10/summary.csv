@@ -1,0 +1,3 @@
+run_root,model,epochs,best_val_acc,last_val_acc,test_acc,test_loss
+results/week10,densenet121,0,,,,
+results/week10,resnet152,0,,,,
