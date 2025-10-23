@@ -1,0 +1,19 @@
+Model: resnet152
+Macro Precision: 0.2500
+Macro Recall:    0.5000
+Macro F1:        0.3333
+Weighted Precision: 0.2500
+Weighted Recall:    0.5000
+Weighted F1:        0.3333
+Balanced Accuracy:  0.5000
+
+Per-class report:
+              precision    recall  f1-score   support
+
+     Ecphora       0.50      1.00      0.67         5
+     Exogyra       0.00      0.00      0.00         5
+
+    accuracy                           0.50        10
+   macro avg       0.25      0.50      0.33        10
+weighted avg       0.25      0.50      0.33        10
+
