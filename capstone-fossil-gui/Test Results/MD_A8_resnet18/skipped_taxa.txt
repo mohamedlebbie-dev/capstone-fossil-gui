@@ -1,0 +1,5 @@
+Skipped classes with fewer than 20 baseline images:
+ - taxon-vertebra_(chondrichthyes): 19 images
+ - taxon-ophiomorpha_nodosa: 17 images
+ - taxon-bone_(reptilia): 3 images
+ - taxon-ischyrhiza_mira: 14 images

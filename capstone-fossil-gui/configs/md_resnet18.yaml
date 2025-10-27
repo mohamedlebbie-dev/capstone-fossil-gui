@@ -1,0 +1,6 @@
+data_dir: data/md/train
+pred_dir: predictions/md
+model: resnet18
+epochs: 5
+batch_size: 32
+min_images_per_class: 20

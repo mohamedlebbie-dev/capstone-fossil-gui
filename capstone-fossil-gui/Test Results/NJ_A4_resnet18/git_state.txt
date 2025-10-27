@@ -1,0 +1,25 @@
+368aa18
+ M results/week10/confusion_matrix_densenet121.png
+ M results/week10/metrics_densenet121.txt
+ M results/week10/metrics_resnet152.txt
+ M scripts/train_densenet.py
+ M scripts/train_resnet152.py
+?? ../DATA-TRAIN-MD/
+?? ../DATA-TRAIN-NJ/
+?? Images/
+?? "Test Results/"
+?? configs/
+?? data/
+?? models/
+?? nj-versus-md/
+?? output/
+?? runs/
+?? scripts/augment_images.py
+?? scripts/augment_images.py.bak
+?? scripts/predict_image.py
+?? scripts/run_all.sh
+?? scripts/summarize_runs.py
+?? scripts/train_densenet.py.bak
+?? scripts/train_model.py
+?? scripts/train_resnet152.py.bak
+?? ../nj-versus-md-20251026T174216Z-1-001.zip
